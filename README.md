@@ -137,7 +137,7 @@ A [Homebrew](http://brew.sh) package is available.
 # Tap the caskroom/fonts keg, if needed.
 brew tap caskroom/fonts
 # Install the font using brew
-brew cask install font-twitter-emoji-color
+brew cask install font-twitter-color-emoji
 ```
 
 [10]:http://www.macissues.com/2014/11/21/how-to-change-the-default-system-font-in-mac-os-x/
